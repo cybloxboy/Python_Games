@@ -1,7 +1,2 @@
-# Scratch_to_Python
-Short Project that I take code from scratch and run on Python
-
----
-เป็นผลงานที่ผมเคยทำใน [Scratch](https://scratch.mit.edu) ให้มารันบน Python
-
-เป็น Project ที่เคยทำสมัยประถมที่รร.เจริญวิทยา จ้าาา
+# Python_Games
+A Project that I make games with Python
