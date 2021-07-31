@@ -1,5 +1,9 @@
-# Scratch_to_Python
-Short Project that I take code from scratch and run on Python
+# เกมบวกลบเลขหรรษา
+เกมบวกลบเลขหรรษา เป็น Project Scratch มาลงบน Python
 
----
-เป็นผลงานที่ผมเคยทำใน [Scratch](https://scratch.mit.edu) ให้มารันบน Python
+----
+How to play:
+
+**1.** *Install* **Python** *in https://python.org*
+
+**2.** *Install package* **playsound** *in terminal*
