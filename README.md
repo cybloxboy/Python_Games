@@ -8,4 +8,4 @@
 
 **How to play:**
 
-**1.** *Install **Python** *in https://python.org*
+**1.** *Install* **Python** *in https://python.org*
