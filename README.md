@@ -1,2 +1,11 @@
-# Python_Games
-A Project that I make games with Python
+# เกมเป่ายิ้งฉุบ
+
+----
+
+เป็นเกมให้เป่ายิ้งฉุบกับคอมพิวเตอร์ หากฝ่ายใดได้แต้มเยอะกว่า คนนั้นก็จะเป็นผู้ชนะ
+
+----
+
+**How to play:**
+
+**1.** *Install **Python** *in https://python.org*
